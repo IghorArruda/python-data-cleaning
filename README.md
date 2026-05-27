@@ -63,10 +63,9 @@ Dataset: **Supermarket Sales** (Kaggle)
    python scripts/03_remover_duplicatas.py
    python scripts/04_padronizar_texto.py
 
-   
-📫 Contato
-LinkedIn: linkedin.com/in/ighor-arruda
+## 📫 Contato
+- **LinkedIn:** [linkedin.com/in/ighor-arruda](https://linkedin.com/in/ighor-arruda)
+- **GitHub:** [github.com/IghorArruda](https://github.com/IghorArruda)
 
-GitHub: github.com/IghorArruda
-
-📌 Este portfólio está em constante evolução.
+---
+📌 *Este portfólio está em constante evolução.*
